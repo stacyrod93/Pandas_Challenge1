@@ -1,0 +1,5 @@
+Observations:
+
+Observation 1: The age bin that had the most player was between 20-24, with the second age bin being players 15-19
+Observation 2: Players ages 20-24 also spent the most money 
+Observation 3: All the top spenders where male players 
